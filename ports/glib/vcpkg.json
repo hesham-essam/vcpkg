@@ -10,7 +10,7 @@
     "gettext",
     "libffi",
     "libiconv",
-    "pcre",
+    "pcre2",
     {
       "name": "vcpkg-tool-meson",
       "host": true
